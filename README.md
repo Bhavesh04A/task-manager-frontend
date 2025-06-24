@@ -1,12 +1,33 @@
-# React + Vite
+# Task Manager Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, modern task management web application built with **React**, **Vite**, and **TypeScript**.  
+This frontend connects to a backend API (deployed on Render) and supports features like task creation, due dates, priorities, and status management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User authentication (signup, login, JWT-based)
+- Create, edit, and delete tasks
+- Task states: To Do, In Progress, Done
+- Set due dates and priorities
+- Responsive UI for desktop and mobile
+- Drag-and-drop support for task management
+- Real-time UI updates and toast notifications
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://react.dev/) (with Context API and React Router)
+- [Vite](https://vitejs.dev/) for fast development and builds
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/) for API requests
+- [React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd) for drag-and-drop
+- [Styled Components](https://styled-components.com/) or CSS Modules for styling
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or above)
+- npm or yarn
+
+
+
