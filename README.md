@@ -1,6 +1,6 @@
 # Task Manager Frontend
 
-A responsive, modern task management web application built with **React**, **Vite**, and **TypeScript**.  
+A responsive, modern task management web application built with **React**, **Vite**, and **Javascript**.  
 This frontend connects to a backend API (deployed on Render) and supports features like task creation, due dates, priorities, and status management.
 
 ## Features
