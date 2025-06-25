@@ -17,12 +17,9 @@ This frontend connects to a backend API (deployed on Render) and supports featur
 
 - [React](https://react.dev/) (with Context API and React Router)
 - [Vite](https://vitejs.dev/) for fast development and builds
-- [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/) for API requests
-- [React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd) for drag-and-drop
 - [Styled Components](https://styled-components.com/) or CSS Modules for styling
 
-## Getting Started
 
 ### Prerequisites
 
